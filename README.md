@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm katmwaLauren</h1>
 <h3 align="center">am a developer</h3>
-
+Screen Shot 2024-01-09 at 1.57.44 AM.png
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katumwalauren&label=Profile%20views&color=0e75b6&style=flat" alt="katumwalauren" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katumwalauren" alt="katumwalauren" /></a> </p>
