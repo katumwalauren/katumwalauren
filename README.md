@@ -34,4 +34,4 @@ Screen Shot 2024-01-09 at 1.57.44 AM.png
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katumwalauren&show_icons=true&locale=en" alt="katumwalauren" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katumwalauren&" alt="katumwalauren" /></p>
-<a href="file:///Users/katumwa%20carol/Desktop/html/html-testRepair.html">The loading page</a>
+<a href="file:///Users/katumwa%20carol/Desktop/html/html-testRepair.html"></a>
