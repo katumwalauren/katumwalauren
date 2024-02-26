@@ -13,7 +13,7 @@ Screen Shot 2024-01-09 at 1.57.44 AM.png
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS
 
-- 👯 I’m looking to collaborate with **big companies**
+- 👯 I’m looking forward to collaborate with **big companies**
 
 - 💬 Ask me about **Javascript, HTML, CSS
 
