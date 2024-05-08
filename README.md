@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm katmwaLauren</h1>
-<h3 align="center">am a developer</h3>
+<h3 align="center">AM A FULL STACK DEVELOPER</h3>
 Screen Shot 2024-01-09 at 1.57.44 AM.png
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katumwalauren&label=Profile%20views&color=0e75b6&style=flat" alt="katumwalauren" /> </p>
 
@@ -9,17 +9,17 @@ Screen Shot 2024-01-09 at 1.57.44 AM.png
 
 <p align="left"> <a href="https://twitter.com/@carolkatumwa" target="blank"><img src="https://img.shields.io/twitter/follow/@carolkatumwa?logo=twitter&style=for-the-badge" alt="@carolkatumwa" /></a> </p>
 
-- 🔭 I’m currently working on **building loading pages**
+- 🔭 I’m currently working on **building apps and deploying them**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS
+- 🌱 I’m currently learning **JAVASCRIPT, HTML, CSS, REACT, MongoDB, NODEJS, EXPRESS, 
 
 - 👯 I’m looking forward to collaborating with **big companies**
 
-- 💬 Ask me about **Javascript, HTML, CSS
+- 💬 Ask me about **Javascript, HTML, CSS, React, MongoDB, Nodejs, Express
 
 - 📫 How to reach me **katumwacarol19@gmail.com**
 
-- ⚡ Fun fact **I think am funny**
+- ⚡ Fun fact **am funny and love traveling **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
